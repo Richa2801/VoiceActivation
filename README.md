@@ -1,3 +1,3 @@
 # VoiceActivation
 
-This is a SOS for Women's Safety which is activated through Voice.
+Using voiceflow and integromate, I created a voice app that creates an email draft containing the text that we speak.
